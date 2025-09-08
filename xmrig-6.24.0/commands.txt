@@ -1,0 +1,2 @@
+# Start mining with XMRig
+./xmrig
